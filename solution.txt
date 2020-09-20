@@ -1,0 +1,44 @@
+  __ _ _      _
+ / _(_) | ___/ |
+| |_| | |/ _ \ |
+|  _| | |  __/ |
+|_| |_|_|\___|_|
+
+Write down the steps in GDB you took to find the bug(s)!
+
+
+
+
+
+  __ _ _      ____
+ / _(_) | ___|___ \
+| |_| | |/ _ \ __) |
+|  _| | |  __// __/
+|_| |_|_|\___|_____|
+
+Write down the steps in GDB you took to find the bug(s)!
+
+
+
+
+  __ _ _      _____
+ / _(_) | ___|___ /
+| |_| | |/ _ \ |_ \
+|  _| | |  __/___) |
+|_| |_|_|\___|____/
+
+Write down the steps in GDB you took to find the bug(s)!
+
+
+  __ _ _      _  _
+ / _(_) | ___| || |
+| |_| | |/ _ \ || |_
+|  _| | |  __/__   _|
+|_| |_|_|\___|  |_|
+
+
+Write down the steps in GDB you took to find the bug(s) OR go to TA hours and debug it live!
+
+
+
+
